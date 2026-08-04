@@ -1,0 +1,616 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Ultimate Central Europe Guide" />
+    <title>Ultimate Central Europe Guide</title>
+    <link rel="icon" type="image/svg+xml" href="/ultimate-central-europe-guide/assets/favicon-B9AoNkg0.svg" />
+    <script type="module" crossorigin src="/ultimate-central-europe-guide/assets/index-CS_eTEXo.js"></script>
+    <link rel="stylesheet" crossorigin href="/ultimate-central-europe-guide/assets/index-bD03NGwn.css">
+  </head>
+  <body class="bg-stone-50">
+    <div id="root"></div>
+  </body>
+</html>
+      }
+
+      .meta-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        margin-top: 8px;
+      }
+
+      .meta-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        font-size: 0.72rem;
+        color: #52617a;
+        background: #f6f1e8;
+        padding: 4px 8px;
+        border-radius: 999px;
+      }
+
+      .list-meta {
+        margin-top: 2px;
+        color: #627089;
+        font-size: 0.77rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .main-panel {
+        display: flex;
+        flex-direction: column;
+        min-height: 0;
+      }
+
+      .hero-banner {
+        padding: 18px 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 12px;
+        background: rgba(255, 255, 255, 0.9);
+        border: 1px solid var(--border);
+        border-radius: 18px 18px 0 0;
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(10px);
+      }
+
+      .hero-banner .pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 7px 10px;
+        border-radius: 999px;
+        background: rgba(31, 151, 246, 0.08);
+        color: #2d5f97;
+        font-size: 0.8rem;
+        font-weight: 600;
+      }
+
+      .map-toolbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 16px 20px;
+        background: linear-gradient(135deg, rgba(255, 255, 255, 0.97), rgba(250, 248, 245, 0.95));
+        border-left: 1px solid var(--border);
+        border-right: 1px solid var(--border);
+        border-bottom: 1px solid var(--border);
+      }
+
+      .map-toolbar h2 {
+        margin: 0;
+        font-size: 1.16rem;
+      }
+
+      .map-toolbar span {
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      #map {
+        flex: 1;
+        min-height: 72vh;
+        border-radius: 0 0 22px 22px;
+        overflow: hidden;
+        border: 1px solid var(--border);
+        border-top: 0;
+        box-shadow: var(--shadow);
+      }
+
+      .leaflet-popup-content-wrapper {
+        border-radius: 16px;
+      }
+
+      .popup-card {
+        min-width: 220px;
+        color: #1c2540;
+      }
+
+      .popup-card img {
+        width: 100%;
+        height: 120px;
+        object-fit: cover;
+        border-radius: 12px;
+        margin-bottom: 8px;
+      }
+
+      .popup-card h4 {
+        margin: 0 0 6px;
+        font-size: 1rem;
+      }
+
+      .popup-card p {
+        margin: 0 0 8px;
+        color: #51607b;
+        font-size: 0.86rem;
+      }
+
+      .popup-actions {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .popup-actions a {
+        color: #1254c1;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 0.82rem;
+      }
+
+      .popup-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        margin: 8px 0 10px;
+      }
+
+      .popup-meta span {
+        font-size: 0.74rem;
+        padding: 4px 8px;
+        border-radius: 999px;
+        background: #f5efe5;
+        color: #5d6882;
+      }
+
+      .empty-state {
+        padding: 14px;
+        border-radius: 12px;
+        background: #f7f3ec;
+        color: var(--muted);
+        text-align: center;
+      }
+
+      footer {
+        padding: 14px 20px 0;
+        color: var(--muted);
+        font-size: 0.82rem;
+      }
+
+      @media (max-width: 980px) {
+        .app-shell {
+          grid-template-columns: 1fr;
+          padding: 12px;
+          gap: 12px;
+        }
+
+        .sidebar {
+          border-right: 1px solid var(--border);
+          max-height: none;
+          order: 2;
+        }
+
+        .main-panel {
+          order: 1;
+        }
+      }
+
+      @media (max-width: 640px) {
+        body {
+          background: linear-gradient(135deg, #f8f0e5 0%, #f3ebdf 100%);
+        }
+
+        .app-shell {
+          padding: 8px;
+        }
+
+        .sidebar {
+          padding: 12px;
+          border-radius: 16px;
+        }
+
+        .brand {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+
+        .hero-banner,
+        .map-toolbar {
+          padding: 12px 14px;
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 6px;
+        }
+
+        .hero-banner .pill {
+          font-size: 0.74rem;
+          width: 100%;
+          justify-content: center;
+        }
+
+        .city-btn {
+          padding: 10px 12px;
+          font-size: 0.92rem;
+        }
+
+        .place-card {
+          padding: 10px;
+        }
+
+        .place-thumb {
+          height: 92px;
+        }
+
+        #map {
+          min-height: 60vh;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">✦</div>
+          <div>
+            <h1>Ultimate Central Europe Guide</h1>
+            <p>Plan your next city escape</p>
+          </div>
+        </div>
+
+        <section class="panel">
+          <h3>Cities</h3>
+          <div class="city-grid" id="cityButtons"></div>
+        </section>
+
+        <section class="panel">
+          <h3>Search</h3>
+          <input id="searchInput" class="search-input" type="text" placeholder="Try “coffee”, “concert”, or “view”" />
+        </section>
+
+        <section class="panel">
+          <h3>Categories</h3>
+          <div id="categoryGroups"></div>
+        </section>
+
+        <section class="panel">
+          <h3 id="resultsHeading">Top picks</h3>
+          <div id="placeList" class="place-list"></div>
+        </section>
+      </aside>
+
+      <main class="main-panel">
+        <div class="hero-banner">
+          <div class="pill">✦ Curated city guides • Local favorites • Seasonal highlights</div>
+          <div class="pill">🗺 OpenStreetMap</div>
+        </div>
+        <div class="map-toolbar">
+          <div>
+            <h2 id="cityTitle">Prague</h2>
+            <span id="citySubtitle">Historic charm and timeless atmosphere</span>
+          </div>
+          <div id="mapSummary">Loading adventures…</div>
+        </div>
+        <div id="map"></div>
+        <footer style="padding: 14px 24px 20px; color: var(--muted); font-size: 0.82rem; border-top: 1px solid var(--border); background: rgba(5, 14, 24, 0.72);">
+          Built for easy planning, local discovery, and unforgettable Central Europe stays.
+        </footer>
+      </main>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script>
+      const cities = {
+        prague: {
+          name: "Prague",
+          flag: "🇨🇿",
+          country: "Czech Republic",
+          subtitle: "Historic charm and timeless atmosphere",
+          center: [50.0875, 14.4214],
+          zoom: 13,
+          dataFile: "data/prague.json"
+        },
+        vienna: {
+          name: "Vienna",
+          flag: "🇦🇹",
+          country: "Austria",
+          subtitle: "Imperial elegance with cultural depth",
+          center: [48.2082, 16.3738],
+          zoom: 13,
+          dataFile: "data/vienna.json"
+        },
+        budapest: {
+          name: "Budapest",
+          flag: "🇭🇺",
+          country: "Hungary",
+          subtitle: "Danube views and vibrant evenings",
+          center: [47.4979, 19.0402],
+          zoom: 13,
+          dataFile: "data/budapest.json"
+        }
+      };
+
+      const categoryDefinitions = [
+        {
+          title: "Explore",
+          items: [
+            { value: "explore", label: "Attractions" },
+            { value: "museums", label: "Museums" },
+            { value: "parks", label: "Parks" },
+            { value: "photo-spots", label: "Photo Spots" },
+            { value: "hidden-gems", label: "Hidden Gems" }
+          ]
+        },
+        {
+          title: "Christmas",
+          items: [
+            { value: "christmas-markets", label: "Christmas Markets" },
+            { value: "ice-skating", label: "Ice Skating" },
+            { value: "christmas-concerts", label: "Christmas Concerts" },
+            { value: "mulled-wine", label: "Mulled Wine" }
+          ]
+        },
+        {
+          title: "Food & Drink",
+          items: [
+            { value: "breakfast", label: "Breakfast" },
+            { value: "cafes", label: "Cafes" },
+            { value: "local-restaurants", label: "Local Restaurants" },
+            { value: "street-food", label: "Street Food" },
+            { value: "desserts", label: "Desserts" }
+          ]
+        },
+        {
+          title: "Nightlife",
+          items: [
+            { value: "pubs", label: "Pubs" },
+            { value: "cocktail-bars", label: "Cocktail Bars" },
+            { value: "wine-bars", label: "Wine Bars" },
+            { value: "rooftops", label: "Rooftops" },
+            { value: "jazz-clubs", label: "Jazz Clubs" },
+            { value: "night-clubs", label: "Night Clubs" }
+          ]
+        },
+        {
+          title: "Shopping",
+          items: [
+            { value: "shopping-malls", label: "Shopping Malls" },
+            { value: "outlet", label: "Outlet" },
+            { value: "souvenirs", label: "Souvenirs" },
+            { value: "local-markets", label: "Local Markets" },
+            { value: "vintage", label: "Vintage" }
+          ]
+        },
+        {
+          title: "Transport",
+          items: [
+            { value: "metro", label: "Metro" },
+            { value: "tram", label: "Tram" },
+            { value: "bus", label: "Bus" },
+            { value: "bolt-uber", label: "Bolt/Uber" },
+            { value: "train", label: "Train" },
+            { value: "airport-transfer", label: "Airport Transfer" }
+          ]
+        },
+        {
+          title: "More Filters",
+          items: [
+            { value: "rating-4", label: "4+ Rating" },
+            { value: "price-$", label: "Budget" },
+            { value: "price-$$", label: "Mid-range" },
+            { value: "price-$$$", label: "Premium" },
+            { value: "hours-today", label: "Open Today" }
+          ]
+        }
+      ];
+
+      const state = {
+        city: "prague",
+        category: "all",
+        search: "",
+        data: {}
+      };
+
+      const cityButtons = document.getElementById("cityButtons");
+      const categoryContainer = document.getElementById("categoryGroups");
+      const searchInput = document.getElementById("searchInput");
+      const placeList = document.getElementById("placeList");
+      const cityTitle = document.getElementById("cityTitle");
+      const citySubtitle = document.getElementById("citySubtitle");
+      const resultsHeading = document.getElementById("resultsHeading");
+      const mapSummary = document.getElementById("mapSummary");
+
+      let map;
+      let markerLayer;
+
+      async function loadCityData(cityKey) {
+        const city = cities[cityKey];
+        if (state.data[cityKey]) {
+          return state.data[cityKey];
+        }
+        const response = await fetch(city.dataFile);
+        const data = await response.json();
+        state.data[cityKey] = { ...city, places: data };
+        return state.data[cityKey];
+      }
+
+      function initMap() {
+        map = L.map("map", {
+          zoomControl: true,
+          scrollWheelZoom: true
+        }).setView(cities[state.city].center, cities[state.city].zoom);
+
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          maxZoom: 20,
+          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        markerLayer = L.markerClusterGroup({ showCoverageOnHover: false });
+        map.addLayer(markerLayer);
+      }
+
+      function getIcon() {
+        return L.divIcon({
+          html: '<span style="background:#4fb3ff; border:2px solid #fff; width:16px; height:16px; display:block; border-radius:50%; box-shadow:0 4px 12px rgba(0,0,0,.2);"></span>',
+          className: "",
+          iconSize: [16, 16],
+          iconAnchor: [8, 8]
+        });
+      }
+
+      function renderCities() {
+        cityButtons.innerHTML = "";
+        Object.entries(cities).forEach(([key, city]) => {
+          const button = document.createElement("button");
+          button.className = `city-btn ${state.city === key ? "active" : ""}`;
+          button.innerHTML = `<span>${city.flag} ${city.name}</span><span>${city.country}</span>`;
+          button.addEventListener("click", async () => {
+            state.city = key;
+            await render();
+          });
+          cityButtons.appendChild(button);
+        });
+      }
+
+      function renderCategories() {
+        categoryContainer.innerHTML = "";
+
+        const allBtn = document.createElement("button");
+        allBtn.className = `cat-btn ${state.category === "all" ? "active" : ""}`;
+        allBtn.textContent = "All";
+        allBtn.dataset.category = "all";
+        allBtn.addEventListener("click", async () => {
+          state.category = "all";
+          await render();
+        });
+        categoryContainer.appendChild(allBtn);
+
+        categoryDefinitions.forEach((group) => {
+          const section = document.createElement("div");
+          section.className = "category-section";
+
+          const title = document.createElement("h4");
+          title.textContent = group.title;
+          section.appendChild(title);
+
+          const buttonsWrap = document.createElement("div");
+          buttonsWrap.className = "cat-list";
+
+          group.items.forEach((item) => {
+            const btn = document.createElement("button");
+            btn.className = `cat-btn ${state.category === item.value ? "active" : ""}`;
+            btn.textContent = item.label;
+            btn.dataset.category = item.value;
+            btn.addEventListener("click", async () => {
+              state.category = item.value;
+              await render();
+            });
+            buttonsWrap.appendChild(btn);
+          });
+
+          section.appendChild(buttonsWrap);
+          categoryContainer.appendChild(section);
+        });
+      }
+
+      async function renderPlaces() {
+        const city = await loadCityData(state.city);
+        const query = state.search.trim().toLowerCase();
+        const filtered = city.places.filter((place) => {
+          const matchesCategory = state.category === "all" || place.categories.includes(state.category) || (state.category === "rating-4" && place.rating >= 4) || (state.category === "price-$" && place.averagePrice === "$") || (state.category === "price-$$" && place.averagePrice === "$$") || (state.category === "price-$$$" && place.averagePrice === "$$$") || (state.category === "hours-today" && place.openingHours);
+          const haystack = `${place.name} ${place.description} ${place.address} ${place.averagePrice}`.toLowerCase();
+          const matchesSearch = !query || haystack.includes(query);
+          return matchesCategory && matchesSearch;
+        });
+
+        resultsHeading.textContent = `${filtered.length} ${filtered.length === 1 ? "spot" : "spots"} in ${city.name}`;
+        if (!filtered.length) {
+          placeList.innerHTML = '<div class="empty-state">No matches yet. Try another keyword or category.</div>';
+          mapSummary.textContent = "No places match your filters";
+          markerLayer.clearLayers();
+          return;
+        }
+
+        placeList.innerHTML = "";
+        filtered.forEach((place) => {
+          const card = document.createElement("div");
+          card.className = "place-card";
+          card.innerHTML = `
+            <img class="place-thumb" src="${place.image}" alt="${place.name}" />
+            <header>
+              <div>
+                <h4>${place.name}</h4>
+                <p>${place.address}</p>
+              </div>
+              <span class="rating-chip">★ ${place.rating.toFixed(1)}</span>
+            </header>
+            <div class="meta-row">
+              <span class="meta-pill">🕒 ${place.openingHours}</span>
+              <span class="meta-pill">💸 ${place.averagePrice}</span>
+            </div>
+            <div class="list-meta">
+              <span>${place.categories[0].replace(/-/g, " ")}</span>
+              <span>Open on map</span>
+            </div>
+          `;
+          card.addEventListener("click", () => focusPlace(place));
+          placeList.appendChild(card);
+        });
+
+        markerLayer.clearLayers();
+        filtered.forEach((place) => {
+          const marker = L.marker([place.lat, place.lng], { icon: getIcon() });
+          marker.bindPopup(`
+            <div class="popup-card">
+              <img src="${place.image}" alt="${place.name}" />
+              <h4>${place.name}</h4>
+              <p>${place.description}</p>
+              <div class="popup-meta">
+                <span>⭐ ${place.rating.toFixed(1)}</span>
+                <span>🕒 ${place.openingHours}</span>
+                <span>💸 ${place.averagePrice}</span>
+              </div>
+              <div class="popup-actions">
+                <a href="${place.website}" target="_blank" rel="noreferrer">Visit website</a>
+                <a href="${place.googleMaps}" target="_blank" rel="noreferrer">Open in Google Maps</a>
+              </div>
+            </div>
+          `);
+          marker.on("click", () => focusPlace(place));
+          markerLayer.addLayer(marker);
+        });
+
+        if (filtered.length > 1) {
+          const bounds = L.featureGroup(filtered.map((place) => L.marker([place.lat, place.lng])));
+          map.fitBounds(bounds.getBounds().pad(0.25));
+        } else {
+          map.setView([filtered[0].lat, filtered[0].lng], 15);
+        }
+
+        mapSummary.textContent = `${filtered.length} curated stops • ${city.name}`;
+      }
+
+      function focusPlace(place) {
+        map.flyTo([place.lat, place.lng], 15, { duration: 1.4 });
+        const marker = markerLayer.getLayers().find((layer) => layer.getLatLng().lat === place.lat && layer.getLatLng().lng === place.lng);
+        if (marker) marker.openPopup();
+      }
+
+      async function render() {
+        const city = await loadCityData(state.city);
+        cityTitle.textContent = city.name;
+        citySubtitle.textContent = city.subtitle;
+        renderCities();
+        renderCategories();
+        await renderPlaces();
+      }
+
+      searchInput.addEventListener("input", async (event) => {
+        state.search = event.target.value;
+        await renderPlaces();
+      });
+
+      initMap();
+      render();
+    </script>
+  </body>
+</html>
