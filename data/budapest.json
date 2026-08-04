@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 1000,
+    "name": "Buda Castle",
+    "lat": 47.4579,
+    "lng": 19.0042,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.2,
+    "description": "Buda Castle is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Buda Castle District, Budapest",
+    "website": "https://www.example.com/budapest/1",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Buda+Castle+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1001,
+    "name": "Fisherman’s Bastion",
+    "lat": 47.4659,
+    "lng": 19.0162,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Fisherman’s Bastion is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Fisherman’s Bastion District, Budapest",
+    "website": "https://www.example.com/budapest/2",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Fisherman’s+Bastion+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1002,
+    "name": "Hungarian Parliament Building",
+    "lat": 47.4739,
+    "lng": 19.0282,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Hungarian Parliament Building is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Hungarian Parliament Building District, Budapest",
+    "website": "https://www.example.com/budapest/3",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hungarian+Parliament+Building+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1003,
+    "name": "St. Stephen’s Basilica",
+    "lat": 47.4819,
+    "lng": 19.0402,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "St. Stephen’s Basilica is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "St. Stephen’s Basilica District, Budapest",
+    "website": "https://www.example.com/budapest/4",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=St.+Stephen’s+Basilica+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1004,
+    "name": "Chain Bridge",
+    "lat": 47.4899,
+    "lng": 19.0522,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.7,
+    "description": "Chain Bridge is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Chain Bridge District, Budapest",
+    "website": "https://www.example.com/budapest/5",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Chain+Bridge+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1005,
+    "name": "Gellért Hill",
+    "lat": 47.4979,
+    "lng": 19.0642,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.8,
+    "description": "Gellért Hill is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Gellért Hill District, Budapest",
+    "website": "https://www.example.com/budapest/6",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Gellért+Hill+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1006,
+    "name": "Margaret Island",
+    "lat": 47.5059,
+    "lng": 19.0762,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.8,
+    "description": "Margaret Island is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Margaret Island District, Budapest",
+    "website": "https://www.example.com/budapest/7",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Margaret+Island+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1007,
+    "name": "Heroes’ Square",
+    "lat": 47.5139,
+    "lng": 19.0052,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 5.0,
+    "description": "Heroes’ Square is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Heroes’ Square District, Budapest",
+    "website": "https://www.example.com/budapest/8",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Heroes’+Square+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1008,
+    "name": "Great Market Hall",
+    "lat": 47.5219,
+    "lng": 19.0172,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.3,
+    "description": "Great Market Hall is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Great Market Hall District, Budapest",
+    "website": "https://www.example.com/budapest/9",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Great+Market+Hall+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1009,
+    "name": "House of Terror",
+    "lat": 47.5299,
+    "lng": 19.0292,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "House of Terror is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "House of Terror District, Budapest",
+    "website": "https://www.example.com/budapest/10",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=House+of+Terror+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1010,
+    "name": "Hungarian National Museum",
+    "lat": 47.5379,
+    "lng": 19.0412,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "Hungarian National Museum is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Hungarian National Museum District, Budapest",
+    "website": "https://www.example.com/budapest/11",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hungarian+National+Museum+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1011,
+    "name": "Mathias Church",
+    "lat": 47.4589,
+    "lng": 19.0532,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.6,
+    "description": "Mathias Church is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mathias Church District, Budapest",
+    "website": "https://www.example.com/budapest/12",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mathias+Church+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1012,
+    "name": "Buda Hills",
+    "lat": 47.4669,
+    "lng": 19.0652,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.6,
+    "description": "Buda Hills is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Buda Hills District, Budapest",
+    "website": "https://www.example.com/budapest/13",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Buda+Hills+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1013,
+    "name": "Citadella",
+    "lat": 47.4749,
+    "lng": 19.0772,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Citadella is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Citadella District, Budapest",
+    "website": "https://www.example.com/budapest/14",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Citadella+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1014,
+    "name": "Danube Promenade",
+    "lat": 47.4829,
+    "lng": 19.0062,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.9,
+    "description": "Danube Promenade is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Danube Promenade District, Budapest",
+    "website": "https://www.example.com/budapest/15",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Danube+Promenade+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1015,
+    "name": "Római Part",
+    "lat": 47.4909,
+    "lng": 19.0182,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Római Part is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Római Part District, Budapest",
+    "website": "https://www.example.com/budapest/16",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Római+Part+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1016,
+    "name": "Margit Boulevard",
+    "lat": 47.4989,
+    "lng": 19.0302,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Margit Boulevard is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Margit Boulevard District, Budapest",
+    "website": "https://www.example.com/budapest/17",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Margit+Boulevard+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1017,
+    "name": "Széchenyi Chain Bridge",
+    "lat": 47.5069,
+    "lng": 19.0422,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.4,
+    "description": "Széchenyi Chain Bridge is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Széchenyi Chain Bridge District, Budapest",
+    "website": "https://www.example.com/budapest/18",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Széchenyi+Chain+Bridge+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1018,
+    "name": "Buda Palace",
+    "lat": 47.5149,
+    "lng": 19.0542,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.4,
+    "description": "Buda Palace is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Buda Palace District, Budapest",
+    "website": "https://www.example.com/budapest/19",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Buda+Palace+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1019,
+    "name": "Castle District",
+    "lat": 47.5229,
+    "lng": 19.0662,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "Castle District is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Castle District District, Budapest",
+    "website": "https://www.example.com/budapest/20",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Castle+District+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1020,
+    "name": "Váci Street",
+    "lat": 47.5309,
+    "lng": 19.0782,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.7,
+    "description": "Váci Street is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Váci Street District, Budapest",
+    "website": "https://www.example.com/budapest/21",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Váci+Street+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1021,
+    "name": "Andrássy Avenue",
+    "lat": 47.5389,
+    "lng": 19.0072,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "Andrássy Avenue is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Andrássy Avenue District, Budapest",
+    "website": "https://www.example.com/budapest/22",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Andrássy+Avenue+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1022,
+    "name": "Memento Park",
+    "lat": 47.4599,
+    "lng": 19.0192,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.9,
+    "description": "Memento Park is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Memento Park District, Budapest",
+    "website": "https://www.example.com/budapest/23",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Memento+Park+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1023,
+    "name": "Szentendre Day Trip",
+    "lat": 47.4679,
+    "lng": 19.0312,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Szentendre Day Trip is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Szentendre Day Trip District, Budapest",
+    "website": "https://www.example.com/budapest/24",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Szentendre+Day+Trip+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1024,
+    "name": "Budapest Zoo",
+    "lat": 47.4759,
+    "lng": 19.0432,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Budapest Zoo is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Budapest Zoo District, Budapest",
+    "website": "https://www.example.com/budapest/25",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Budapest+Zoo+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1025,
+    "name": "City Park",
+    "lat": 47.4839,
+    "lng": 19.0552,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.3,
+    "description": "City Park is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "City Park District, Budapest",
+    "website": "https://www.example.com/budapest/26",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=City+Park+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1026,
+    "name": "Kiscelli Museum",
+    "lat": 47.4919,
+    "lng": 19.0672,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "Kiscelli Museum is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kiscelli Museum District, Budapest",
+    "website": "https://www.example.com/budapest/27",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kiscelli+Museum+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1027,
+    "name": "Museum of Fine Arts",
+    "lat": 47.4999,
+    "lng": 19.0792,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "Museum of Fine Arts is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Museum of Fine Arts District, Budapest",
+    "website": "https://www.example.com/budapest/28",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Museum+of+Fine+Arts+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1028,
+    "name": "Rómer Flóris Museum",
+    "lat": 47.5079,
+    "lng": 19.0082,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.7,
+    "description": "Rómer Flóris Museum is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Rómer Flóris Museum District, Budapest",
+    "website": "https://www.example.com/budapest/29",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Rómer+Flóris+Museum+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1029,
+    "name": "National Gallery",
+    "lat": 47.5159,
+    "lng": 19.0202,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.8,
+    "description": "National Gallery is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "National Gallery District, Budapest",
+    "website": "https://www.example.com/budapest/30",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=National+Gallery+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1030,
+    "name": "Museum of Applied Arts",
+    "lat": 47.5239,
+    "lng": 19.0322,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.8,
+    "description": "Museum of Applied Arts is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Museum of Applied Arts District, Budapest",
+    "website": "https://www.example.com/budapest/31",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Museum+of+Applied+Arts+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1031,
+    "name": "Kelenföld",
+    "lat": 47.5319,
+    "lng": 19.0442,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Kelenföld is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kelenföld District, Budapest",
+    "website": "https://www.example.com/budapest/32",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kelenföld+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1032,
+    "name": "Kőbánya",
+    "lat": 47.5399,
+    "lng": 19.0562,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Kőbánya is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kőbánya District, Budapest",
+    "website": "https://www.example.com/budapest/33",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kőbánya+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1033,
+    "name": "Óbuda",
+    "lat": 47.4609,
+    "lng": 19.0682,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Óbuda is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Óbuda District, Budapest",
+    "website": "https://www.example.com/budapest/34",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Óbuda+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1034,
+    "name": "Csepel",
+    "lat": 47.4689,
+    "lng": 19.0802,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Csepel is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Csepel District, Budapest",
+    "website": "https://www.example.com/budapest/35",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Csepel+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1035,
+    "name": "Rákóczi út",
+    "lat": 47.4769,
+    "lng": 19.0092,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.6,
+    "description": "Rákóczi út is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Rákóczi út District, Budapest",
+    "website": "https://www.example.com/budapest/36",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Rákóczi+út+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1036,
+    "name": "Józsefváros",
+    "lat": 47.4849,
+    "lng": 19.0212,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.6,
+    "description": "Józsefváros is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Józsefváros District, Budapest",
+    "website": "https://www.example.com/budapest/37",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Józsefváros+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1037,
+    "name": "Erzsébetváros",
+    "lat": 47.4929,
+    "lng": 19.0332,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Erzsébetváros is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Erzsébetváros District, Budapest",
+    "website": "https://www.example.com/budapest/38",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Erzsébetváros+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1038,
+    "name": "Terézváros",
+    "lat": 47.5009,
+    "lng": 19.0452,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Terézváros is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Terézváros District, Budapest",
+    "website": "https://www.example.com/budapest/39",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Terézváros+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1039,
+    "name": "Újlipótváros",
+    "lat": 47.5089,
+    "lng": 19.0572,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Újlipótváros is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Újlipótváros District, Budapest",
+    "website": "https://www.example.com/budapest/40",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Újlipótváros+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1040,
+    "name": "Gül Baba",
+    "lat": 47.5169,
+    "lng": 19.0692,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Gül Baba is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Gül Baba District, Budapest",
+    "website": "https://www.example.com/budapest/41",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Gül+Baba+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1041,
+    "name": "Nyugati Railway Station",
+    "lat": 47.5249,
+    "lng": 19.0812,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.4,
+    "description": "Nyugati Railway Station is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Nyugati Railway Station District, Budapest",
+    "website": "https://www.example.com/budapest/42",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Nyugati+Railway+Station+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1042,
+    "name": "Keleti Railway Station",
+    "lat": 47.5329,
+    "lng": 19.0102,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.4,
+    "description": "Keleti Railway Station is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Keleti Railway Station District, Budapest",
+    "website": "https://www.example.com/budapest/43",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Keleti+Railway+Station+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1043,
+    "name": "Déli Railway Station",
+    "lat": 47.5409,
+    "lng": 19.0222,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.5,
+    "description": "Déli Railway Station is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Déli Railway Station District, Budapest",
+    "website": "https://www.example.com/budapest/44",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Déli+Railway+Station+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1044,
+    "name": "Budapest Airport",
+    "lat": 47.4619,
+    "lng": 19.0342,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.7,
+    "description": "Budapest Airport is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Budapest Airport District, Budapest",
+    "website": "https://www.example.com/budapest/45",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Budapest+Airport+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1045,
+    "name": "Stadionok",
+    "lat": 47.4699,
+    "lng": 19.0462,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "Stadionok is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Stadionok District, Budapest",
+    "website": "https://www.example.com/budapest/46",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Stadionok+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1046,
+    "name": "Népliget",
+    "lat": 47.4779,
+    "lng": 19.0582,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Népliget is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Népliget District, Budapest",
+    "website": "https://www.example.com/budapest/47",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Népliget+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1047,
+    "name": "Művész",
+    "lat": 47.4859,
+    "lng": 19.0702,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Művész is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Művész District, Budapest",
+    "website": "https://www.example.com/budapest/48",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Művész+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1048,
+    "name": "Mazel Tov",
+    "lat": 47.4939,
+    "lng": 19.0822,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Mazel Tov is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mazel Tov District, Budapest",
+    "website": "https://www.example.com/budapest/49",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mazel+Tov+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1049,
+    "name": "Műhely",
+    "lat": 47.5019,
+    "lng": 19.0112,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Műhely is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Műhely District, Budapest",
+    "website": "https://www.example.com/budapest/50",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Műhely+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1050,
+    "name": "Borkonyha",
+    "lat": 47.5099,
+    "lng": 19.0232,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Borkonyha is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Borkonyha District, Budapest",
+    "website": "https://www.example.com/budapest/51",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Borkonyha+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1051,
+    "name": "Café Gerbeaud",
+    "lat": 47.5179,
+    "lng": 19.0352,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.5,
+    "description": "Café Gerbeaud is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Café Gerbeaud District, Budapest",
+    "website": "https://www.example.com/budapest/52",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Café+Gerbeaud+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1052,
+    "name": "Művész Kocsma",
+    "lat": 47.5259,
+    "lng": 19.0472,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "Művész Kocsma is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Művész Kocsma District, Budapest",
+    "website": "https://www.example.com/budapest/53",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Művész+Kocsma+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1053,
+    "name": "The Old Man Pub",
+    "lat": 47.5339,
+    "lng": 19.0592,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.8,
+    "description": "The Old Man Pub is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "The Old Man Pub District, Budapest",
+    "website": "https://www.example.com/budapest/54",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Old+Man+Pub+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1054,
+    "name": "Instant-Fogas",
+    "lat": 47.5419,
+    "lng": 19.0712,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Instant-Fogas is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Instant-Fogas District, Budapest",
+    "website": "https://www.example.com/budapest/55",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Instant-Fogas+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1055,
+    "name": "Mazel Tov Restaurant",
+    "lat": 47.4629,
+    "lng": 19.0832,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 5.0,
+    "description": "Mazel Tov Restaurant is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mazel Tov Restaurant District, Budapest",
+    "website": "https://www.example.com/budapest/56",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mazel+Tov+Restaurant+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1056,
+    "name": "Béla",
+    "lat": 47.4709,
+    "lng": 19.0122,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Béla is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Béla District, Budapest",
+    "website": "https://www.example.com/budapest/57",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Béla+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1057,
+    "name": "Kőleves",
+    "lat": 47.4789,
+    "lng": 19.0242,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Kőleves is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kőleves District, Budapest",
+    "website": "https://www.example.com/budapest/58",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kőleves+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1058,
+    "name": "Törökméz",
+    "lat": 47.4869,
+    "lng": 19.0362,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Törökméz is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Törökméz District, Budapest",
+    "website": "https://www.example.com/budapest/59",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Törökméz+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1059,
+    "name": "Kispiac",
+    "lat": 47.4949,
+    "lng": 19.0482,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.6,
+    "description": "Kispiac is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kispiac District, Budapest",
+    "website": "https://www.example.com/budapest/60",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kispiac+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1060,
+    "name": "Nagyvásárcsarnok",
+    "lat": 47.5029,
+    "lng": 19.0602,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.6,
+    "description": "Nagyvásárcsarnok is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Nagyvásárcsarnok District, Budapest",
+    "website": "https://www.example.com/budapest/61",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Nagyvásárcsarnok+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1061,
+    "name": "Central Market Hall",
+    "lat": 47.5109,
+    "lng": 19.0722,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.8,
+    "description": "Central Market Hall is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Central Market Hall District, Budapest",
+    "website": "https://www.example.com/budapest/62",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Central+Market+Hall+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1062,
+    "name": "Központi Piac",
+    "lat": 47.5189,
+    "lng": 19.0842,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Központi Piac is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Központi Piac District, Budapest",
+    "website": "https://www.example.com/budapest/63",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Központi+Piac+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1063,
+    "name": "Római Part Farmers Market",
+    "lat": 47.5269,
+    "lng": 19.0132,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.9,
+    "description": "Római Part Farmers Market is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Római Part Farmers Market District, Budapest",
+    "website": "https://www.example.com/budapest/64",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Római+Part+Farmers+Market+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1064,
+    "name": "Buda Flea Market",
+    "lat": 47.5349,
+    "lng": 19.0252,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.2,
+    "description": "Buda Flea Market is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Buda Flea Market District, Budapest",
+    "website": "https://www.example.com/budapest/65",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Buda+Flea+Market+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1065,
+    "name": "Fővám Square Market",
+    "lat": 47.5429,
+    "lng": 19.0372,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.4,
+    "description": "Fővám Square Market is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Fővám Square Market District, Budapest",
+    "website": "https://www.example.com/budapest/66",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Fővám+Square+Market+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1066,
+    "name": "Ariosa Restaurant",
+    "lat": 47.4639,
+    "lng": 19.0492,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.4,
+    "description": "Ariosa Restaurant is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Ariosa Restaurant District, Budapest",
+    "website": "https://www.example.com/budapest/67",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ariosa+Restaurant+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1067,
+    "name": "Kispiac Café",
+    "lat": 47.4719,
+    "lng": 19.0612,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.5,
+    "description": "Kispiac Café is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kispiac Café District, Budapest",
+    "website": "https://www.example.com/budapest/68",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kispiac+Café+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1068,
+    "name": "Café Buda",
+    "lat": 47.4799,
+    "lng": 19.0732,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.7,
+    "description": "Café Buda is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Café Buda District, Budapest",
+    "website": "https://www.example.com/budapest/69",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Café+Buda+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1069,
+    "name": "Sütő",
+    "lat": 47.4879,
+    "lng": 19.0852,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "Sütő is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Sütő District, Budapest",
+    "website": "https://www.example.com/budapest/70",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Sütő+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1070,
+    "name": "Bistro Buda",
+    "lat": 47.4959,
+    "lng": 19.0142,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.9,
+    "description": "Bistro Buda is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Bistro Buda District, Budapest",
+    "website": "https://www.example.com/budapest/71",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bistro+Buda+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1071,
+    "name": "Béla Bistro",
+    "lat": 47.5039,
+    "lng": 19.0262,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 5.0,
+    "description": "Béla Bistro is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Béla Bistro District, Budapest",
+    "website": "https://www.example.com/budapest/72",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Béla+Bistro+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1072,
+    "name": "Műhely Wine Bar",
+    "lat": 47.5119,
+    "lng": 19.0382,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.2,
+    "description": "Műhely Wine Bar is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Műhely Wine Bar District, Budapest",
+    "website": "https://www.example.com/budapest/73",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Műhely+Wine+Bar+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1073,
+    "name": "Mazel Tov Cocktail Bar",
+    "lat": 47.5199,
+    "lng": 19.0502,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.3,
+    "description": "Mazel Tov Cocktail Bar is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mazel Tov Cocktail Bar District, Budapest",
+    "website": "https://www.example.com/budapest/74",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mazel+Tov+Cocktail+Bar+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1074,
+    "name": "Ariosa Bar",
+    "lat": 47.5279,
+    "lng": 19.0622,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.5,
+    "description": "Ariosa Bar is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Ariosa Bar District, Budapest",
+    "website": "https://www.example.com/budapest/75",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ariosa+Bar+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1075,
+    "name": "The Rooftop",
+    "lat": 47.5359,
+    "lng": 19.0742,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.5,
+    "description": "The Rooftop is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "The Rooftop District, Budapest",
+    "website": "https://www.example.com/budapest/76",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Rooftop+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1076,
+    "name": "Kőleves Pub",
+    "lat": 47.5439,
+    "lng": 19.0862,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.7,
+    "description": "Kőleves Pub is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kőleves Pub District, Budapest",
+    "website": "https://www.example.com/budapest/77",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kőleves+Pub+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1077,
+    "name": "Kertész Bar",
+    "lat": 47.4649,
+    "lng": 19.0152,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.8,
+    "description": "Kertész Bar is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kertész Bar District, Budapest",
+    "website": "https://www.example.com/budapest/78",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kertész+Bar+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1078,
+    "name": "Dobos Café",
+    "lat": 47.4729,
+    "lng": 19.0272,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.8,
+    "description": "Dobos Café is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Dobos Café District, Budapest",
+    "website": "https://www.example.com/budapest/79",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Dobos+Café+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1079,
+    "name": "Szimpla Kert",
+    "lat": 47.4809,
+    "lng": 19.0392,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Szimpla Kert is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Szimpla Kert District, Budapest",
+    "website": "https://www.example.com/budapest/80",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Szimpla+Kert+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1080,
+    "name": "Mazel Tov Wine Bar",
+    "lat": 47.4889,
+    "lng": 19.0512,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.3,
+    "description": "Mazel Tov Wine Bar is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mazel Tov Wine Bar District, Budapest",
+    "website": "https://www.example.com/budapest/81",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mazel+Tov+Wine+Bar+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1081,
+    "name": "Római Part Rooftop",
+    "lat": 47.4969,
+    "lng": 19.0632,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.3,
+    "description": "Római Part Rooftop is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Római Part Rooftop District, Budapest",
+    "website": "https://www.example.com/budapest/82",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Római+Part+Rooftop+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1082,
+    "name": "Kisfogház",
+    "lat": 47.5049,
+    "lng": 19.0752,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Kisfogház is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kisfogház District, Budapest",
+    "website": "https://www.example.com/budapest/83",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kisfogház+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1083,
+    "name": "Budapest Jazz Club",
+    "lat": 47.5129,
+    "lng": 19.0872,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.6,
+    "description": "Budapest Jazz Club is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Budapest Jazz Club District, Budapest",
+    "website": "https://www.example.com/budapest/84",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Budapest+Jazz+Club+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1084,
+    "name": "A38",
+    "lat": 47.5209,
+    "lng": 19.0162,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.6,
+    "description": "A38 is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "A38 District, Budapest",
+    "website": "https://www.example.com/budapest/85",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=A38+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1085,
+    "name": "Akácfa Club",
+    "lat": 47.5289,
+    "lng": 19.0282,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.8,
+    "description": "Akácfa Club is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Akácfa Club District, Budapest",
+    "website": "https://www.example.com/budapest/86",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Akácfa+Club+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1086,
+    "name": "Instant-Fogas Wine Bar",
+    "lat": 47.5369,
+    "lng": 19.0402,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.9,
+    "description": "Instant-Fogas Wine Bar is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Instant-Fogas Wine Bar District, Budapest",
+    "website": "https://www.example.com/budapest/87",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Instant-Fogas+Wine+Bar+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1087,
+    "name": "Kőbánya Market",
+    "lat": 47.5449,
+    "lng": 19.0522,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.9,
+    "description": "Kőbánya Market is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kőbánya Market District, Budapest",
+    "website": "https://www.example.com/budapest/88",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kőbánya+Market+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1088,
+    "name": "Buda Market",
+    "lat": 47.4659,
+    "lng": 19.0642,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.2,
+    "description": "Buda Market is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Buda Market District, Budapest",
+    "website": "https://www.example.com/budapest/89",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Buda+Market+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1089,
+    "name": "Pest Market",
+    "lat": 47.4739,
+    "lng": 19.0762,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.4,
+    "description": "Pest Market is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Pest Market District, Budapest",
+    "website": "https://www.example.com/budapest/90",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Pest+Market+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1090,
+    "name": "Géza Market",
+    "lat": 47.4819,
+    "lng": 19.0882,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.4,
+    "description": "Géza Market is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Géza Market District, Budapest",
+    "website": "https://www.example.com/budapest/91",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Géza+Market+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1091,
+    "name": "Börze Market",
+    "lat": 47.4899,
+    "lng": 19.0172,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.5,
+    "description": "Börze Market is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Börze Market District, Budapest",
+    "website": "https://www.example.com/budapest/92",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Börze+Market+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1092,
+    "name": "Fővám Street Market",
+    "lat": 47.4979,
+    "lng": 19.0292,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.7,
+    "description": "Fővám Street Market is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Fővám Street Market District, Budapest",
+    "website": "https://www.example.com/budapest/93",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Fővám+Street+Market+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1093,
+    "name": "Római Part Market",
+    "lat": 47.5059,
+    "lng": 19.0412,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.7,
+    "description": "Római Part Market is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Római Part Market District, Budapest",
+    "website": "https://www.example.com/budapest/94",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Római+Part+Market+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1094,
+    "name": "Buda Castle Market",
+    "lat": 47.5139,
+    "lng": 19.0532,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.9,
+    "description": "Buda Castle Market is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Buda Castle Market District, Budapest",
+    "website": "https://www.example.com/budapest/95",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Buda+Castle+Market+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1095,
+    "name": "Moszkva Square",
+    "lat": 47.5219,
+    "lng": 19.0652,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 5.0,
+    "description": "Moszkva Square is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Moszkva Square District, Budapest",
+    "website": "https://www.example.com/budapest/96",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Moszkva+Square+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1096,
+    "name": "Budapest Metro Line 3",
+    "lat": 47.5299,
+    "lng": 19.0772,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.2,
+    "description": "Budapest Metro Line 3 is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Budapest Metro Line 3 District, Budapest",
+    "website": "https://www.example.com/budapest/97",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Budapest+Metro+Line+3+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1097,
+    "name": "Metro 2",
+    "lat": 47.5379,
+    "lng": 19.0892,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.3,
+    "description": "Metro 2 is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Metro 2 District, Budapest",
+    "website": "https://www.example.com/budapest/98",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Metro+2+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1098,
+    "name": "Tram 4",
+    "lat": 47.5459,
+    "lng": 19.0182,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.5,
+    "description": "Tram 4 is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Tram 4 District, Budapest",
+    "website": "https://www.example.com/budapest/99",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tram+4+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1099,
+    "name": "Tram 6",
+    "lat": 47.4669,
+    "lng": 19.0302,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.5,
+    "description": "Tram 6 is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Tram 6 District, Budapest",
+    "website": "https://www.example.com/budapest/100",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tram+6+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1100,
+    "name": "Bus 7",
+    "lat": 47.4749,
+    "lng": 19.0422,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 4.7,
+    "description": "Bus 7 is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Bus 7 District, Budapest",
+    "website": "https://www.example.com/budapest/101",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bus+7+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1101,
+    "name": "Bolt Pickup Zone",
+    "lat": 47.4829,
+    "lng": 19.0542,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Bolt Pickup Zone is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Bolt Pickup Zone District, Budapest",
+    "website": "https://www.example.com/budapest/102",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bolt+Pickup+Zone+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1102,
+    "name": "Ride Share Hub",
+    "lat": 47.4909,
+    "lng": 19.0662,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.8,
+    "description": "Ride Share Hub is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Ride Share Hub District, Budapest",
+    "website": "https://www.example.com/budapest/103",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ride+Share+Hub+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1103,
+    "name": "Airport Transfer Hub",
+    "lat": 47.4989,
+    "lng": 19.0782,
+    "categories": [
+      "transport",
+      "local-markets"
+    ],
+    "rating": 5.0,
+    "description": "Airport Transfer Hub is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Airport Transfer Hub District, Budapest",
+    "website": "https://www.example.com/budapest/104",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Airport+Transfer+Hub+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1104,
+    "name": "Danube Cruise Dock",
+    "lat": 47.5069,
+    "lng": 19.0902,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Danube Cruise Dock is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Danube Cruise Dock District, Budapest",
+    "website": "https://www.example.com/budapest/105",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Danube+Cruise+Dock+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1105,
+    "name": "Budapest Cable Car",
+    "lat": 47.5149,
+    "lng": 19.0192,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Budapest Cable Car is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Budapest Cable Car District, Budapest",
+    "website": "https://www.example.com/budapest/106",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Budapest+Cable+Car+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1106,
+    "name": "Liberty Bridge",
+    "lat": 47.5229,
+    "lng": 19.0312,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.5,
+    "description": "Liberty Bridge is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Liberty Bridge District, Budapest",
+    "website": "https://www.example.com/budapest/107",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Liberty+Bridge+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1107,
+    "name": "Elisabeth Bridge",
+    "lat": 47.5309,
+    "lng": 19.0432,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.6,
+    "description": "Elisabeth Bridge is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Elisabeth Bridge District, Budapest",
+    "website": "https://www.example.com/budapest/108",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Elisabeth+Bridge+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1108,
+    "name": "Margaret Bridge",
+    "lat": 47.5389,
+    "lng": 19.0552,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.6,
+    "description": "Margaret Bridge is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Margaret Bridge District, Budapest",
+    "website": "https://www.example.com/budapest/109",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Margaret+Bridge+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1109,
+    "name": "Petőfi Bridge",
+    "lat": 47.5469,
+    "lng": 19.0672,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.8,
+    "description": "Petőfi Bridge is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Petőfi Bridge District, Budapest",
+    "website": "https://www.example.com/budapest/110",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Petőfi+Bridge+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1110,
+    "name": "Rákosrendező",
+    "lat": 47.4679,
+    "lng": 19.0792,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Rákosrendező is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Rákosrendező District, Budapest",
+    "website": "https://www.example.com/budapest/111",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Rákosrendező+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1111,
+    "name": "Lágymányosi Bridge",
+    "lat": 47.4759,
+    "lng": 19.0912,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.9,
+    "description": "Lágymányosi Bridge is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Lágymányosi Bridge District, Budapest",
+    "website": "https://www.example.com/budapest/112",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Lágymányosi+Bridge+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1112,
+    "name": "Puskás Ferenc Stadium",
+    "lat": 47.4839,
+    "lng": 19.0202,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Puskás Ferenc Stadium is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Puskás Ferenc Stadium District, Budapest",
+    "website": "https://www.example.com/budapest/113",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Puskás+Ferenc+Stadium+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1113,
+    "name": "Népstadion",
+    "lat": 47.4919,
+    "lng": 19.0322,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.4,
+    "description": "Népstadion is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Népstadion District, Budapest",
+    "website": "https://www.example.com/budapest/114",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Népstadion+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1114,
+    "name": "Béla Bartók Concert Hall",
+    "lat": 47.4999,
+    "lng": 19.0442,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.4,
+    "description": "Béla Bartók Concert Hall is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Béla Bartók Concert Hall District, Budapest",
+    "website": "https://www.example.com/budapest/115",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Béla+Bartók+Concert+Hall+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1115,
+    "name": "Müpa",
+    "lat": 47.5079,
+    "lng": 19.0562,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Müpa is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Müpa District, Budapest",
+    "website": "https://www.example.com/budapest/116",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Müpa+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1116,
+    "name": "National Theater",
+    "lat": 47.5159,
+    "lng": 19.0682,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.7,
+    "description": "National Theater is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "National Theater District, Budapest",
+    "website": "https://www.example.com/budapest/117",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=National+Theater+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1117,
+    "name": "Opera House",
+    "lat": 47.5239,
+    "lng": 19.0802,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.7,
+    "description": "Opera House is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Opera House District, Budapest",
+    "website": "https://www.example.com/budapest/118",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Opera+House+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1118,
+    "name": "Liszt Ferenc Academy",
+    "lat": 47.5319,
+    "lng": 19.0922,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Liszt Ferenc Academy is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Liszt Ferenc Academy District, Budapest",
+    "website": "https://www.example.com/budapest/119",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Liszt+Ferenc+Academy+budapest",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1119,
+    "name": "Rumbach Sebestyén Street",
+    "lat": 47.5399,
+    "lng": 19.0212,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 5.0,
+    "description": "Rumbach Sebestyén Street is one of the standout destinations for travelers looking to experience Budapest at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Rumbach Sebestyén Street District, Budapest",
+    "website": "https://www.example.com/budapest/120",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Rumbach+Sebestyén+Street+budapest",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  }
+]

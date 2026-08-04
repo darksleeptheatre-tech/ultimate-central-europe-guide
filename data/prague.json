@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1000,
+    "name": "Old Town Square",
+    "lat": 50.0475,
+    "lng": 14.3854,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.2,
+    "description": "Old Town Square is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Old Town Square District, Prague",
+    "website": "https://www.example.com/prague/1",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Old+Town+Square+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1001,
+    "name": "Charles Bridge",
+    "lat": 50.0555,
+    "lng": 14.3974,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.3,
+    "description": "Charles Bridge is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Charles Bridge District, Prague",
+    "website": "https://www.example.com/prague/2",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Charles+Bridge+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1002,
+    "name": "Prague Castle",
+    "lat": 50.0635,
+    "lng": 14.4094,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "Prague Castle is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Prague Castle District, Prague",
+    "website": "https://www.example.com/prague/3",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Prague+Castle+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1003,
+    "name": "St. Vitus Cathedral",
+    "lat": 50.0715,
+    "lng": 14.4214,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "St. Vitus Cathedral is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "St. Vitus Cathedral District, Prague",
+    "website": "https://www.example.com/prague/4",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=St.+Vitus+Cathedral+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1004,
+    "name": "Lesser Town Bridge Tower",
+    "lat": 50.0795,
+    "lng": 14.4334,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.7,
+    "description": "Lesser Town Bridge Tower is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Lesser Town Bridge Tower District, Prague",
+    "website": "https://www.example.com/prague/5",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Lesser+Town+Bridge+Tower+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1005,
+    "name": "Astronomical Clock",
+    "lat": 50.0875,
+    "lng": 14.4454,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Astronomical Clock is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Astronomical Clock District, Prague",
+    "website": "https://www.example.com/prague/6",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Astronomical+Clock+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1006,
+    "name": "Jewish Museum Prague",
+    "lat": 50.0955,
+    "lng": 14.4574,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.8,
+    "description": "Jewish Museum Prague is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Jewish Museum Prague District, Prague",
+    "website": "https://www.example.com/prague/7",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Jewish+Museum+Prague+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1007,
+    "name": "Wenceslas Square",
+    "lat": 50.1035,
+    "lng": 14.3864,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 5.0,
+    "description": "Wenceslas Square is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Wenceslas Square District, Prague",
+    "website": "https://www.example.com/prague/8",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Wenceslas+Square+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1008,
+    "name": "New Town Hall",
+    "lat": 50.1115,
+    "lng": 14.3984,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "New Town Hall is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "New Town Hall District, Prague",
+    "website": "https://www.example.com/prague/9",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=New+Town+Hall+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1009,
+    "name": "Vyšehrad Castle",
+    "lat": 50.1195,
+    "lng": 14.4104,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.3,
+    "description": "Vyšehrad Castle is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Vyšehrad Castle District, Prague",
+    "website": "https://www.example.com/prague/10",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Vyšehrad+Castle+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1010,
+    "name": "Petřín Hill",
+    "lat": 50.1275,
+    "lng": 14.4224,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.5,
+    "description": "Petřín Hill is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Petřín Hill District, Prague",
+    "website": "https://www.example.com/prague/11",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Petřín+Hill+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1011,
+    "name": "Letná Park",
+    "lat": 50.0485,
+    "lng": 14.4344,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.6,
+    "description": "Letná Park is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Letná Park District, Prague",
+    "website": "https://www.example.com/prague/12",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Letná+Park+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1012,
+    "name": "Kampa Island",
+    "lat": 50.0565,
+    "lng": 14.4464,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.6,
+    "description": "Kampa Island is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kampa Island District, Prague",
+    "website": "https://www.example.com/prague/13",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kampa+Island+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1013,
+    "name": "Náplavka Riverside",
+    "lat": 50.0645,
+    "lng": 14.4584,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.8,
+    "description": "Náplavka Riverside is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Náplavka Riverside District, Prague",
+    "website": "https://www.example.com/prague/14",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Náplavka+Riverside+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1014,
+    "name": "Dancing House",
+    "lat": 50.0725,
+    "lng": 14.3874,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Dancing House is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Dancing House District, Prague",
+    "website": "https://www.example.com/prague/15",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Dancing+House+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1015,
+    "name": "Municipal House",
+    "lat": 50.0805,
+    "lng": 14.3994,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Municipal House is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Municipal House District, Prague",
+    "website": "https://www.example.com/prague/16",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Municipal+House+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1016,
+    "name": "Malá Strana",
+    "lat": 50.0885,
+    "lng": 14.4114,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Malá Strana is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Malá Strana District, Prague",
+    "website": "https://www.example.com/prague/17",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Malá+Strana+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1017,
+    "name": "Hradčany District",
+    "lat": 50.0965,
+    "lng": 14.4234,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.4,
+    "description": "Hradčany District is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Hradčany District District, Prague",
+    "website": "https://www.example.com/prague/18",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hradčany+District+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1018,
+    "name": "Museum of Communism",
+    "lat": 50.1045,
+    "lng": 14.4354,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.4,
+    "description": "Museum of Communism is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Museum of Communism District, Prague",
+    "website": "https://www.example.com/prague/19",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Museum+of+Communism+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1019,
+    "name": "National Gallery Prague",
+    "lat": 50.1125,
+    "lng": 14.4474,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "National Gallery Prague is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "National Gallery Prague District, Prague",
+    "website": "https://www.example.com/prague/20",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=National+Gallery+Prague+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1020,
+    "name": "Clementinum",
+    "lat": 50.1205,
+    "lng": 14.4594,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "Clementinum is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Clementinum District, Prague",
+    "website": "https://www.example.com/prague/21",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Clementinum+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1021,
+    "name": "Wallenstein Garden",
+    "lat": 50.1285,
+    "lng": 14.3884,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.7,
+    "description": "Wallenstein Garden is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Wallenstein Garden District, Prague",
+    "website": "https://www.example.com/prague/22",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Wallenstein+Garden+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1022,
+    "name": "Loreto Sanctuary",
+    "lat": 50.0495,
+    "lng": 14.4004,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Loreto Sanctuary is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Loreto Sanctuary District, Prague",
+    "website": "https://www.example.com/prague/23",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Loreto+Sanctuary+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1023,
+    "name": "Klementinum Courtyard",
+    "lat": 50.0575,
+    "lng": 14.4124,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Klementinum Courtyard is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Klementinum Courtyard District, Prague",
+    "website": "https://www.example.com/prague/24",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Klementinum+Courtyard+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1024,
+    "name": "Kafka Museum",
+    "lat": 50.0655,
+    "lng": 14.4244,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.2,
+    "description": "Kafka Museum is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kafka Museum District, Prague",
+    "website": "https://www.example.com/prague/25",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kafka+Museum+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1025,
+    "name": "Kampa Museum",
+    "lat": 50.0735,
+    "lng": 14.4364,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.3,
+    "description": "Kampa Museum is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kampa Museum District, Prague",
+    "website": "https://www.example.com/prague/26",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kampa+Museum+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1026,
+    "name": "Lesser Town Square",
+    "lat": 50.0815,
+    "lng": 14.4484,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.5,
+    "description": "Lesser Town Square is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Lesser Town Square District, Prague",
+    "website": "https://www.example.com/prague/27",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Lesser+Town+Square+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1027,
+    "name": "St. Nicholas Church",
+    "lat": 50.0895,
+    "lng": 14.4604,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "St. Nicholas Church is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "St. Nicholas Church District, Prague",
+    "website": "https://www.example.com/prague/28",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=St.+Nicholas+Church+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1028,
+    "name": "Prague Powder Tower",
+    "lat": 50.0975,
+    "lng": 14.3894,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.7,
+    "description": "Prague Powder Tower is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Prague Powder Tower District, Prague",
+    "website": "https://www.example.com/prague/29",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Prague+Powder+Tower+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1029,
+    "name": "Charles Square",
+    "lat": 50.1055,
+    "lng": 14.4014,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.8,
+    "description": "Charles Square is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Charles Square District, Prague",
+    "website": "https://www.example.com/prague/30",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Charles+Square+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1030,
+    "name": "Riegrovy Sady Park",
+    "lat": 50.1135,
+    "lng": 14.4134,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.8,
+    "description": "Riegrovy Sady Park is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Riegrovy Sady Park District, Prague",
+    "website": "https://www.example.com/prague/31",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Riegrovy+Sady+Park+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1031,
+    "name": "Vltava River Cruise Dock",
+    "lat": 50.1215,
+    "lng": 14.4254,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 5.0,
+    "description": "Vltava River Cruise Dock is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Vltava River Cruise Dock District, Prague",
+    "website": "https://www.example.com/prague/32",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Vltava+River+Cruise+Dock+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1032,
+    "name": "Storch House",
+    "lat": 50.1295,
+    "lng": 14.4374,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Storch House is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Storch House District, Prague",
+    "website": "https://www.example.com/prague/33",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Storch+House+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1033,
+    "name": "Mincovna",
+    "lat": 50.0505,
+    "lng": 14.4494,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Mincovna is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mincovna District, Prague",
+    "website": "https://www.example.com/prague/34",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mincovna+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1034,
+    "name": "Mucha Museum",
+    "lat": 50.0585,
+    "lng": 14.4614,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "Mucha Museum is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mucha Museum District, Prague",
+    "website": "https://www.example.com/prague/35",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mucha+Museum+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1035,
+    "name": "Museum of Decorative Arts",
+    "lat": 50.0665,
+    "lng": 14.3904,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.6,
+    "description": "Museum of Decorative Arts is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Museum of Decorative Arts District, Prague",
+    "website": "https://www.example.com/prague/36",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Museum+of+Decorative+Arts+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1036,
+    "name": "House at the Golden Tiger",
+    "lat": 50.0745,
+    "lng": 14.4024,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.6,
+    "description": "House at the Golden Tiger is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "House at the Golden Tiger District, Prague",
+    "website": "https://www.example.com/prague/37",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=House+at+the+Golden+Tiger+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1037,
+    "name": "Riegrovy Sady Beer Garden",
+    "lat": 50.0825,
+    "lng": 14.4144,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.8,
+    "description": "Riegrovy Sady Beer Garden is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Riegrovy Sady Beer Garden District, Prague",
+    "website": "https://www.example.com/prague/38",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Riegrovy+Sady+Beer+Garden+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1038,
+    "name": "Lobkowicz Palace",
+    "lat": 50.0905,
+    "lng": 14.4264,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.9,
+    "description": "Lobkowicz Palace is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Lobkowicz Palace District, Prague",
+    "website": "https://www.example.com/prague/39",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Lobkowicz+Palace+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1039,
+    "name": "Kampa Lounge",
+    "lat": 50.0985,
+    "lng": 14.4384,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Kampa Lounge is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kampa Lounge District, Prague",
+    "website": "https://www.example.com/prague/40",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kampa+Lounge+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1040,
+    "name": "Národní třída",
+    "lat": 50.1065,
+    "lng": 14.4504,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Národní třída is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Národní třída District, Prague",
+    "website": "https://www.example.com/prague/41",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Národní+třída+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1041,
+    "name": "Karlova Street",
+    "lat": 50.1145,
+    "lng": 14.4624,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.4,
+    "description": "Karlova Street is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Karlova Street District, Prague",
+    "website": "https://www.example.com/prague/42",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Karlova+Street+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1042,
+    "name": "Parish Church of St. Cyril and Methodius",
+    "lat": 50.1225,
+    "lng": 14.3914,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.4,
+    "description": "Parish Church of St. Cyril and Methodius is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Parish Church of St. Cyril and Methodius District, Prague",
+    "website": "https://www.example.com/prague/43",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Parish+Church+of+St.+Cyril+and+Methodius+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1043,
+    "name": "Petrin Lookout",
+    "lat": 50.1305,
+    "lng": 14.4034,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Petrin Lookout is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Petrin Lookout District, Prague",
+    "website": "https://www.example.com/prague/44",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Petrin+Lookout+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1044,
+    "name": "Vltava Riverbank",
+    "lat": 50.0515,
+    "lng": 14.4154,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.7,
+    "description": "Vltava Riverbank is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Vltava Riverbank District, Prague",
+    "website": "https://www.example.com/prague/45",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Vltava+Riverbank+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1045,
+    "name": "Mala Strana Steps",
+    "lat": 50.0595,
+    "lng": 14.4274,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "Mala Strana Steps is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mala Strana Steps District, Prague",
+    "website": "https://www.example.com/prague/46",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mala+Strana+Steps+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1046,
+    "name": "Jindřišská Tower",
+    "lat": 50.0675,
+    "lng": 14.4394,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.9,
+    "description": "Jindřišská Tower is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Jindřišská Tower District, Prague",
+    "website": "https://www.example.com/prague/47",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Jindřišská+Tower+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1047,
+    "name": "Bubny District",
+    "lat": 50.0755,
+    "lng": 14.4514,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Bubny District is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Bubny District District, Prague",
+    "website": "https://www.example.com/prague/48",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bubny+District+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1048,
+    "name": "The Dancing House",
+    "lat": 50.0835,
+    "lng": 14.4634,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "The Dancing House is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "The Dancing House District, Prague",
+    "website": "https://www.example.com/prague/49",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Dancing+House+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1049,
+    "name": "Museum of Alchemists",
+    "lat": 50.0915,
+    "lng": 14.3924,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.3,
+    "description": "Museum of Alchemists is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Museum of Alchemists District, Prague",
+    "website": "https://www.example.com/prague/50",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Museum+of+Alchemists+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1050,
+    "name": "Basilica of St. Peter and St. Paul",
+    "lat": 50.0995,
+    "lng": 14.4044,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "Basilica of St. Peter and St. Paul is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Basilica of St. Peter and St. Paul District, Prague",
+    "website": "https://www.example.com/prague/51",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Basilica+of+St.+Peter+and+St.+Paul+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1051,
+    "name": "The New Stage",
+    "lat": 50.1075,
+    "lng": 14.4164,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "The New Stage is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "The New Stage District, Prague",
+    "website": "https://www.example.com/prague/52",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+New+Stage+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1052,
+    "name": "Church of Our Lady Victorious",
+    "lat": 50.1155,
+    "lng": 14.4284,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.7,
+    "description": "Church of Our Lady Victorious is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Church of Our Lady Victorious District, Prague",
+    "website": "https://www.example.com/prague/53",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Church+of+Our+Lady+Victorious+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1053,
+    "name": "River Palace",
+    "lat": 50.1235,
+    "lng": 14.4404,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.8,
+    "description": "River Palace is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "River Palace District, Prague",
+    "website": "https://www.example.com/prague/54",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=River+Palace+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1054,
+    "name": "Štěpánská Street",
+    "lat": 50.1315,
+    "lng": 14.4524,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.8,
+    "description": "Štěpánská Street is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Štěpánská Street District, Prague",
+    "website": "https://www.example.com/prague/55",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Štěpánská+Street+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1055,
+    "name": "Karlova Street Café",
+    "lat": 50.0525,
+    "lng": 14.4644,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 5.0,
+    "description": "Karlova Street Café is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Karlova Street Café District, Prague",
+    "website": "https://www.example.com/prague/56",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Karlova+Street+Café+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1056,
+    "name": "U Fleků Brewery",
+    "lat": 50.0605,
+    "lng": 14.3934,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "U Fleků Brewery is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "U Fleků Brewery District, Prague",
+    "website": "https://www.example.com/prague/57",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=U+Fleků+Brewery+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1057,
+    "name": "Lokál Dlouhááá",
+    "lat": 50.0685,
+    "lng": 14.4054,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Lokál Dlouhááá is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Lokál Dlouhááá District, Prague",
+    "website": "https://www.example.com/prague/58",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Lokál+Dlouhááá+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1058,
+    "name": "Kantýna",
+    "lat": 50.0765,
+    "lng": 14.4174,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Kantýna is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kantýna District, Prague",
+    "website": "https://www.example.com/prague/59",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kantýna+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1059,
+    "name": "Café Savoy",
+    "lat": 50.0845,
+    "lng": 14.4294,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.6,
+    "description": "Café Savoy is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Café Savoy District, Prague",
+    "website": "https://www.example.com/prague/60",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Café+Savoy+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1060,
+    "name": "Mincovna Restaurant",
+    "lat": 50.0925,
+    "lng": 14.4414,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.6,
+    "description": "Mincovna Restaurant is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mincovna Restaurant District, Prague",
+    "website": "https://www.example.com/prague/61",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mincovna+Restaurant+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1061,
+    "name": "Kantine",
+    "lat": 50.1005,
+    "lng": 14.4534,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Kantine is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kantine District, Prague",
+    "website": "https://www.example.com/prague/62",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kantine+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1062,
+    "name": "U Fleků",
+    "lat": 50.1085,
+    "lng": 14.4654,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "U Fleků is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "U Fleků District, Prague",
+    "website": "https://www.example.com/prague/63",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=U+Fleků+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1063,
+    "name": "U Fleků Garden",
+    "lat": 50.1165,
+    "lng": 14.3944,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.9,
+    "description": "U Fleků Garden is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "U Fleků Garden District, Prague",
+    "website": "https://www.example.com/prague/64",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=U+Fleků+Garden+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1064,
+    "name": "Sisters Bistro",
+    "lat": 50.1245,
+    "lng": 14.4064,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.2,
+    "description": "Sisters Bistro is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Sisters Bistro District, Prague",
+    "website": "https://www.example.com/prague/65",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Sisters+Bistro+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1065,
+    "name": "Mincovna Wine Bar",
+    "lat": 50.1325,
+    "lng": 14.4184,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.4,
+    "description": "Mincovna Wine Bar is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mincovna Wine Bar District, Prague",
+    "website": "https://www.example.com/prague/66",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mincovna+Wine+Bar+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1066,
+    "name": "Hemingway Bar Prague",
+    "lat": 50.0535,
+    "lng": 14.4304,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.4,
+    "description": "Hemingway Bar Prague is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Hemingway Bar Prague District, Prague",
+    "website": "https://www.example.com/prague/67",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hemingway+Bar+Prague+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1067,
+    "name": "Anonymous Bar",
+    "lat": 50.0615,
+    "lng": 14.4424,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.5,
+    "description": "Anonymous Bar is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Anonymous Bar District, Prague",
+    "website": "https://www.example.com/prague/68",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Anonymous+Bar+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1068,
+    "name": "Havelská Koruna",
+    "lat": 50.0695,
+    "lng": 14.4544,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "Havelská Koruna is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Havelská Koruna District, Prague",
+    "website": "https://www.example.com/prague/69",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Havelská+Koruna+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1069,
+    "name": "U Fleků Beer Hall",
+    "lat": 50.0775,
+    "lng": 14.4664,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "U Fleků Beer Hall is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "U Fleků Beer Hall District, Prague",
+    "website": "https://www.example.com/prague/70",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=U+Fleků+Beer+Hall+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1070,
+    "name": "Mincovna Cocktail Bar",
+    "lat": 50.0855,
+    "lng": 14.3954,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.9,
+    "description": "Mincovna Cocktail Bar is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mincovna Cocktail Bar District, Prague",
+    "website": "https://www.example.com/prague/71",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mincovna+Cocktail+Bar+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1071,
+    "name": "U Trelu",
+    "lat": 50.0935,
+    "lng": 14.4074,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "U Trelu is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "U Trelu District, Prague",
+    "website": "https://www.example.com/prague/72",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=U+Trelu+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1072,
+    "name": "Bistro Mincovna",
+    "lat": 50.1015,
+    "lng": 14.4194,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.2,
+    "description": "Bistro Mincovna is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Bistro Mincovna District, Prague",
+    "website": "https://www.example.com/prague/73",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bistro+Mincovna+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1073,
+    "name": "Riegrovy Sady Café",
+    "lat": 50.1095,
+    "lng": 14.4314,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.3,
+    "description": "Riegrovy Sady Café is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Riegrovy Sady Café District, Prague",
+    "website": "https://www.example.com/prague/74",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Riegrovy+Sady+Café+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1074,
+    "name": "Jalta Restaurant",
+    "lat": 50.1175,
+    "lng": 14.4434,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.5,
+    "description": "Jalta Restaurant is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Jalta Restaurant District, Prague",
+    "website": "https://www.example.com/prague/75",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Jalta+Restaurant+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1075,
+    "name": "Kantýna Bakery",
+    "lat": 50.1255,
+    "lng": 14.4554,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.5,
+    "description": "Kantýna Bakery is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kantýna Bakery District, Prague",
+    "website": "https://www.example.com/prague/76",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kantýna+Bakery+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1076,
+    "name": "Mincovna Coffee",
+    "lat": 50.1335,
+    "lng": 14.4674,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.7,
+    "description": "Mincovna Coffee is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mincovna Coffee District, Prague",
+    "website": "https://www.example.com/prague/77",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mincovna+Coffee+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1077,
+    "name": "El Hava",
+    "lat": 50.0545,
+    "lng": 14.3964,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "El Hava is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "El Hava District, Prague",
+    "website": "https://www.example.com/prague/78",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=El+Hava+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1078,
+    "name": "The Bank Prague",
+    "lat": 50.0625,
+    "lng": 14.4084,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "The Bank Prague is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "The Bank Prague District, Prague",
+    "website": "https://www.example.com/prague/79",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Bank+Prague+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1079,
+    "name": "Café Savoy Terrace",
+    "lat": 50.0705,
+    "lng": 14.4204,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 5.0,
+    "description": "Café Savoy Terrace is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Café Savoy Terrace District, Prague",
+    "website": "https://www.example.com/prague/80",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Café+Savoy+Terrace+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1080,
+    "name": "Náplavka Food Market",
+    "lat": 50.0785,
+    "lng": 14.4324,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.3,
+    "description": "Náplavka Food Market is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Náplavka Food Market District, Prague",
+    "website": "https://www.example.com/prague/81",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Náplavka+Food+Market+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1081,
+    "name": "Kantýna Market",
+    "lat": 50.0865,
+    "lng": 14.4444,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.3,
+    "description": "Kantýna Market is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kantýna Market District, Prague",
+    "website": "https://www.example.com/prague/82",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kantýna+Market+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1082,
+    "name": "Mincovna Market",
+    "lat": 50.0945,
+    "lng": 14.4564,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.5,
+    "description": "Mincovna Market is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mincovna Market District, Prague",
+    "website": "https://www.example.com/prague/83",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mincovna+Market+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1083,
+    "name": "Karlova Street Market",
+    "lat": 50.1025,
+    "lng": 14.4684,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.6,
+    "description": "Karlova Street Market is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Karlova Street Market District, Prague",
+    "website": "https://www.example.com/prague/84",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Karlova+Street+Market+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1084,
+    "name": "Old Town Flea Market",
+    "lat": 50.1105,
+    "lng": 14.3974,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.6,
+    "description": "Old Town Flea Market is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Old Town Flea Market District, Prague",
+    "website": "https://www.example.com/prague/85",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Old+Town+Flea+Market+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1085,
+    "name": "Prague Farmers Market",
+    "lat": 50.1185,
+    "lng": 14.4094,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.8,
+    "description": "Prague Farmers Market is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Prague Farmers Market District, Prague",
+    "website": "https://www.example.com/prague/86",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Prague+Farmers+Market+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1086,
+    "name": "Havelská Market",
+    "lat": 50.1265,
+    "lng": 14.4214,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.9,
+    "description": "Havelská Market is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Havelská Market District, Prague",
+    "website": "https://www.example.com/prague/87",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Havelská+Market+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1087,
+    "name": "Bubny Market",
+    "lat": 50.1345,
+    "lng": 14.4334,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.9,
+    "description": "Bubny Market is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Bubny Market District, Prague",
+    "website": "https://www.example.com/prague/88",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bubny+Market+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1088,
+    "name": "Florenc Market",
+    "lat": 50.0555,
+    "lng": 14.4454,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.2,
+    "description": "Florenc Market is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Florenc Market District, Prague",
+    "website": "https://www.example.com/prague/89",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Florenc+Market+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1089,
+    "name": "Muzeum Metro Station",
+    "lat": 50.0635,
+    "lng": 14.4574,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.4,
+    "description": "Muzeum Metro Station is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Muzeum Metro Station District, Prague",
+    "website": "https://www.example.com/prague/90",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Muzeum+Metro+Station+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1090,
+    "name": "Karlovo náměstí Tram Stop",
+    "lat": 50.0715,
+    "lng": 14.4694,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.4,
+    "description": "Karlovo náměstí Tram Stop is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Karlovo náměstí Tram Stop District, Prague",
+    "website": "https://www.example.com/prague/91",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Karlovo+náměstí+Tram+Stop+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1091,
+    "name": "Prague Main Station",
+    "lat": 50.0795,
+    "lng": 14.3984,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.5,
+    "description": "Prague Main Station is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Prague Main Station District, Prague",
+    "website": "https://www.example.com/prague/92",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Prague+Main+Station+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1092,
+    "name": "Prague Airport Transfer Hub",
+    "lat": 50.0875,
+    "lng": 14.4104,
+    "categories": [
+      "transport",
+      "attractions"
+    ],
+    "rating": 4.7,
+    "description": "Prague Airport Transfer Hub is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Prague Airport Transfer Hub District, Prague",
+    "website": "https://www.example.com/prague/93",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Prague+Airport+Transfer+Hub+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1093,
+    "name": "Kampa Coffee House",
+    "lat": 50.0955,
+    "lng": 14.4224,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.7,
+    "description": "Kampa Coffee House is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kampa Coffee House District, Prague",
+    "website": "https://www.example.com/prague/94",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kampa+Coffee+House+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1094,
+    "name": "Týnská Street",
+    "lat": 50.1035,
+    "lng": 14.4344,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.9,
+    "description": "Týnská Street is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Týnská Street District, Prague",
+    "website": "https://www.example.com/prague/95",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Týnská+Street+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1095,
+    "name": "Na Příkopě",
+    "lat": 50.1115,
+    "lng": 14.4464,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Na Příkopě is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Na Příkopě District, Prague",
+    "website": "https://www.example.com/prague/96",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Na+Příkopě+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1096,
+    "name": "Prague Congress Centre",
+    "lat": 50.1195,
+    "lng": 14.4584,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Prague Congress Centre is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Prague Congress Centre District, Prague",
+    "website": "https://www.example.com/prague/97",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Prague+Congress+Centre+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1097,
+    "name": "Poděbradská Street",
+    "lat": 50.1275,
+    "lng": 14.4704,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.3,
+    "description": "Poděbradská Street is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Poděbradská Street District, Prague",
+    "website": "https://www.example.com/prague/98",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Poděbradská+Street+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1098,
+    "name": "Kampa Riverfront",
+    "lat": 50.1355,
+    "lng": 14.3994,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.5,
+    "description": "Kampa Riverfront is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kampa Riverfront District, Prague",
+    "website": "https://www.example.com/prague/99",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kampa+Riverfront+prague",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1099,
+    "name": "O2 Academy Prague",
+    "lat": 50.0565,
+    "lng": 14.4114,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "O2 Academy Prague is one of the standout destinations for travelers looking to experience Prague at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "O2 Academy Prague District, Prague",
+    "website": "https://www.example.com/prague/100",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=O2+Academy+Prague+prague",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  }
+]

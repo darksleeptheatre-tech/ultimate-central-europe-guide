@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ultimate Central Europe Guide icon">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4fb3ff"/>
+      <stop offset="100%" stop-color="#6c7cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#07111f"/>
+  <path d="M18 24h28l-4 6H22l-4-6Zm6 10h16l-2 6H26l-2-6Zm4 10h8l-2 6h-4l-2-6Z" fill="url(#g)"/>
+</svg>

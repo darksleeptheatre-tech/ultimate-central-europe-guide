@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 1000,
+    "name": "Schönbrunn Palace",
+    "lat": 48.1682,
+    "lng": 16.3378,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.2,
+    "description": "Schönbrunn Palace is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Schönbrunn Palace District, Vienna",
+    "website": "https://www.example.com/vienna/1",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Schönbrunn+Palace+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1001,
+    "name": "Belvedere Museum",
+    "lat": 48.1762,
+    "lng": 16.3498,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.3,
+    "description": "Belvedere Museum is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Belvedere Museum District, Vienna",
+    "website": "https://www.example.com/vienna/2",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Belvedere+Museum+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1002,
+    "name": "St. Stephen’s Cathedral",
+    "lat": 48.1842,
+    "lng": 16.3618,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "St. Stephen’s Cathedral is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "St. Stephen’s Cathedral District, Vienna",
+    "website": "https://www.example.com/vienna/3",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=St.+Stephen’s+Cathedral+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1003,
+    "name": "Vienna State Opera",
+    "lat": 48.1922,
+    "lng": 16.3738,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "Vienna State Opera is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Vienna State Opera District, Vienna",
+    "website": "https://www.example.com/vienna/4",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Vienna+State+Opera+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1004,
+    "name": "Hofburg Palace",
+    "lat": 48.2002,
+    "lng": 16.3858,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.7,
+    "description": "Hofburg Palace is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Hofburg Palace District, Vienna",
+    "website": "https://www.example.com/vienna/5",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hofburg+Palace+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1005,
+    "name": "Albertina Museum",
+    "lat": 48.2082,
+    "lng": 16.3978,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.8,
+    "description": "Albertina Museum is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Albertina Museum District, Vienna",
+    "website": "https://www.example.com/vienna/6",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Albertina+Museum+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1006,
+    "name": "Prater Park",
+    "lat": 48.2162,
+    "lng": 16.4098,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.8,
+    "description": "Prater Park is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Prater Park District, Vienna",
+    "website": "https://www.example.com/vienna/7",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Prater+Park+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1007,
+    "name": "Stadtpark",
+    "lat": 48.2242,
+    "lng": 16.3388,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 5.0,
+    "description": "Stadtpark is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Stadtpark District, Vienna",
+    "website": "https://www.example.com/vienna/8",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Stadtpark+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1008,
+    "name": "Naschmarkt",
+    "lat": 48.2322,
+    "lng": 16.3508,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Naschmarkt is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Naschmarkt District, Vienna",
+    "website": "https://www.example.com/vienna/9",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Naschmarkt+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1009,
+    "name": "Vienna City Hall",
+    "lat": 48.2402,
+    "lng": 16.3628,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Vienna City Hall is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Vienna City Hall District, Vienna",
+    "website": "https://www.example.com/vienna/10",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Vienna+City+Hall+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1010,
+    "name": "Vienna Giant Ferris Wheel",
+    "lat": 48.2482,
+    "lng": 16.3748,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Vienna Giant Ferris Wheel is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Vienna Giant Ferris Wheel District, Vienna",
+    "website": "https://www.example.com/vienna/11",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Vienna+Giant+Ferris+Wheel+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1011,
+    "name": "Karlskirche",
+    "lat": 48.1692,
+    "lng": 16.3868,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.6,
+    "description": "Karlskirche is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Karlskirche District, Vienna",
+    "website": "https://www.example.com/vienna/12",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Karlskirche+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1012,
+    "name": "Secession Building",
+    "lat": 48.1772,
+    "lng": 16.3988,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.6,
+    "description": "Secession Building is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Secession Building District, Vienna",
+    "website": "https://www.example.com/vienna/13",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Secession+Building+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1013,
+    "name": "Spanish Riding School",
+    "lat": 48.1852,
+    "lng": 16.4108,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Spanish Riding School is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Spanish Riding School District, Vienna",
+    "website": "https://www.example.com/vienna/14",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Spanish+Riding+School+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1014,
+    "name": "Kunsthistorisches Museum",
+    "lat": 48.1932,
+    "lng": 16.3398,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.9,
+    "description": "Kunsthistorisches Museum is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kunsthistorisches Museum District, Vienna",
+    "website": "https://www.example.com/vienna/15",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kunsthistorisches+Museum+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1015,
+    "name": "Natural History Museum",
+    "lat": 48.2012,
+    "lng": 16.3518,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.9,
+    "description": "Natural History Museum is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Natural History Museum District, Vienna",
+    "website": "https://www.example.com/vienna/16",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Natural+History+Museum+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1016,
+    "name": "Danube Canal",
+    "lat": 48.2092,
+    "lng": 16.3638,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Danube Canal is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Danube Canal District, Vienna",
+    "website": "https://www.example.com/vienna/17",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Danube+Canal+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1017,
+    "name": "Schloss Belvedere",
+    "lat": 48.2172,
+    "lng": 16.3758,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.4,
+    "description": "Schloss Belvedere is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Schloss Belvedere District, Vienna",
+    "website": "https://www.example.com/vienna/18",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Schloss+Belvedere+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1018,
+    "name": "Rathausplatz",
+    "lat": 48.2252,
+    "lng": 16.3878,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.4,
+    "description": "Rathausplatz is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Rathausplatz District, Vienna",
+    "website": "https://www.example.com/vienna/19",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Rathausplatz+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1019,
+    "name": "Stephansplatz",
+    "lat": 48.2332,
+    "lng": 16.3998,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Stephansplatz is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Stephansplatz District, Vienna",
+    "website": "https://www.example.com/vienna/20",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Stephansplatz+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1020,
+    "name": "Kärntner Straße",
+    "lat": 48.2412,
+    "lng": 16.4118,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "Kärntner Straße is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kärntner Straße District, Vienna",
+    "website": "https://www.example.com/vienna/21",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kärntner+Straße+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1021,
+    "name": "Graben Street",
+    "lat": 48.2492,
+    "lng": 16.3408,
+    "categories": [
+      "attractions",
+      "photo-spots"
+    ],
+    "rating": 4.7,
+    "description": "Graben Street is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Graben Street District, Vienna",
+    "website": "https://www.example.com/vienna/22",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Graben+Street+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1022,
+    "name": "Mariahilfer Straße",
+    "lat": 48.1702,
+    "lng": 16.3528,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Mariahilfer Straße is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mariahilfer Straße District, Vienna",
+    "website": "https://www.example.com/vienna/23",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mariahilfer+Straße+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1023,
+    "name": "Landstraße",
+    "lat": 48.1782,
+    "lng": 16.3648,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Landstraße is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Landstraße District, Vienna",
+    "website": "https://www.example.com/vienna/24",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Landstraße+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1024,
+    "name": "Leopold Museum",
+    "lat": 48.1862,
+    "lng": 16.3768,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.2,
+    "description": "Leopold Museum is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Leopold Museum District, Vienna",
+    "website": "https://www.example.com/vienna/25",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Leopold+Museum+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1025,
+    "name": "Haus des Meeres",
+    "lat": 48.1942,
+    "lng": 16.3888,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Haus des Meeres is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Haus des Meeres District, Vienna",
+    "website": "https://www.example.com/vienna/26",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Haus+des+Meeres+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1026,
+    "name": "Prater Giant Ferris Wheel",
+    "lat": 48.2022,
+    "lng": 16.4008,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Prater Giant Ferris Wheel is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Prater Giant Ferris Wheel District, Vienna",
+    "website": "https://www.example.com/vienna/27",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Prater+Giant+Ferris+Wheel+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1027,
+    "name": "Vienna Woods",
+    "lat": 48.2102,
+    "lng": 16.4128,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.5,
+    "description": "Vienna Woods is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Vienna Woods District, Vienna",
+    "website": "https://www.example.com/vienna/28",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Vienna+Woods+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1028,
+    "name": "Lainzer Tiergarten",
+    "lat": 48.2182,
+    "lng": 16.3418,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "Lainzer Tiergarten is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Lainzer Tiergarten District, Vienna",
+    "website": "https://www.example.com/vienna/29",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Lainzer+Tiergarten+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1029,
+    "name": "Burggarten",
+    "lat": 48.2262,
+    "lng": 16.3538,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Burggarten is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Burggarten District, Vienna",
+    "website": "https://www.example.com/vienna/30",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Burggarten+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1030,
+    "name": "Ringstrasse",
+    "lat": 48.2342,
+    "lng": 16.3658,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Ringstrasse is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Ringstrasse District, Vienna",
+    "website": "https://www.example.com/vienna/31",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ringstrasse+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1031,
+    "name": "Schönbrunn Gardens",
+    "lat": 48.2422,
+    "lng": 16.3778,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 5.0,
+    "description": "Schönbrunn Gardens is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Schönbrunn Gardens District, Vienna",
+    "website": "https://www.example.com/vienna/32",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Schönbrunn+Gardens+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1032,
+    "name": "The Hofburg",
+    "lat": 48.2502,
+    "lng": 16.3898,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "The Hofburg is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "The Hofburg District, Vienna",
+    "website": "https://www.example.com/vienna/33",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Hofburg+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1033,
+    "name": "Imperial Treasury",
+    "lat": 48.1712,
+    "lng": 16.4018,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Imperial Treasury is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Imperial Treasury District, Vienna",
+    "website": "https://www.example.com/vienna/34",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Imperial+Treasury+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1034,
+    "name": "Kahlenberg Hill",
+    "lat": 48.1792,
+    "lng": 16.4138,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.5,
+    "description": "Kahlenberg Hill is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kahlenberg Hill District, Vienna",
+    "website": "https://www.example.com/vienna/35",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kahlenberg+Hill+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1035,
+    "name": "Donaupark",
+    "lat": 48.1872,
+    "lng": 16.3428,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.6,
+    "description": "Donaupark is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Donaupark District, Vienna",
+    "website": "https://www.example.com/vienna/36",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Donaupark+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1036,
+    "name": "Augarten Park",
+    "lat": 48.1952,
+    "lng": 16.3548,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.6,
+    "description": "Augarten Park is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Augarten Park District, Vienna",
+    "website": "https://www.example.com/vienna/37",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Augarten+Park+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1037,
+    "name": "Wiener Prater",
+    "lat": 48.2032,
+    "lng": 16.3668,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Wiener Prater is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Wiener Prater District, Vienna",
+    "website": "https://www.example.com/vienna/38",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Wiener+Prater+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1038,
+    "name": "Danube Tower",
+    "lat": 48.2112,
+    "lng": 16.3788,
+    "categories": [
+      "parks",
+      "photo-spots"
+    ],
+    "rating": 4.9,
+    "description": "Danube Tower is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Danube Tower District, Vienna",
+    "website": "https://www.example.com/vienna/39",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Danube+Tower+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1039,
+    "name": "Hundertwasserhaus",
+    "lat": 48.2192,
+    "lng": 16.3908,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Hundertwasserhaus is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Hundertwasserhaus District, Vienna",
+    "website": "https://www.example.com/vienna/40",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hundertwasserhaus+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1040,
+    "name": "Kunsthalle Wien",
+    "lat": 48.2272,
+    "lng": 16.4028,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Kunsthalle Wien is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kunsthalle Wien District, Vienna",
+    "website": "https://www.example.com/vienna/41",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kunsthalle+Wien+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1041,
+    "name": "Mumok",
+    "lat": 48.2352,
+    "lng": 16.4148,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.4,
+    "description": "Mumok is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mumok District, Vienna",
+    "website": "https://www.example.com/vienna/42",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mumok+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1042,
+    "name": "Austrian National Library",
+    "lat": 48.2432,
+    "lng": 16.3438,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.4,
+    "description": "Austrian National Library is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Austrian National Library District, Vienna",
+    "website": "https://www.example.com/vienna/43",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Austrian+National+Library+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1043,
+    "name": "Vienna Museum",
+    "lat": 48.2512,
+    "lng": 16.3558,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "Vienna Museum is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Vienna Museum District, Vienna",
+    "website": "https://www.example.com/vienna/44",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Vienna+Museum+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1044,
+    "name": "Burgtheater",
+    "lat": 48.1722,
+    "lng": 16.3678,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.7,
+    "description": "Burgtheater is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Burgtheater District, Vienna",
+    "website": "https://www.example.com/vienna/45",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Burgtheater+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1045,
+    "name": "Rosenburg Palace",
+    "lat": 48.1802,
+    "lng": 16.3798,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.7,
+    "description": "Rosenburg Palace is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Rosenburg Palace District, Vienna",
+    "website": "https://www.example.com/vienna/46",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Rosenburg+Palace+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1046,
+    "name": "Palais Hansen Kempner",
+    "lat": 48.1882,
+    "lng": 16.3918,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.9,
+    "description": "Palais Hansen Kempner is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Palais Hansen Kempner District, Vienna",
+    "website": "https://www.example.com/vienna/47",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Palais+Hansen+Kempner+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1047,
+    "name": "Palais Pálffy",
+    "lat": 48.1962,
+    "lng": 16.4038,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Palais Pálffy is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Palais Pálffy District, Vienna",
+    "website": "https://www.example.com/vienna/48",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Palais+Pálffy+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1048,
+    "name": "Michaelerplatz",
+    "lat": 48.2042,
+    "lng": 16.4158,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Michaelerplatz is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Michaelerplatz District, Vienna",
+    "website": "https://www.example.com/vienna/49",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Michaelerplatz+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1049,
+    "name": "St. Peter’s Church",
+    "lat": 48.2122,
+    "lng": 16.3448,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.3,
+    "description": "St. Peter’s Church is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "St. Peter’s Church District, Vienna",
+    "website": "https://www.example.com/vienna/50",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=St.+Peter’s+Church+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1050,
+    "name": "St. Charles Church",
+    "lat": 48.2202,
+    "lng": 16.3568,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "St. Charles Church is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "St. Charles Church District, Vienna",
+    "website": "https://www.example.com/vienna/51",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=St.+Charles+Church+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1051,
+    "name": "Votive Church",
+    "lat": 48.2282,
+    "lng": 16.3688,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.5,
+    "description": "Votive Church is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Votive Church District, Vienna",
+    "website": "https://www.example.com/vienna/52",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Votive+Church+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1052,
+    "name": "Austrian Gallery",
+    "lat": 48.2362,
+    "lng": 16.3808,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.7,
+    "description": "Austrian Gallery is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Austrian Gallery District, Vienna",
+    "website": "https://www.example.com/vienna/53",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Austrian+Gallery+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1053,
+    "name": "Museum Quarter",
+    "lat": 48.2442,
+    "lng": 16.3928,
+    "categories": [
+      "attractions",
+      "museums"
+    ],
+    "rating": 4.8,
+    "description": "Museum Quarter is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Museum Quarter District, Vienna",
+    "website": "https://www.example.com/vienna/54",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Museum+Quarter+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1054,
+    "name": "Burggasse",
+    "lat": 48.2522,
+    "lng": 16.4048,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Burggasse is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Burggasse District, Vienna",
+    "website": "https://www.example.com/vienna/55",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Burggasse+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1055,
+    "name": "Neubau",
+    "lat": 48.1732,
+    "lng": 16.4168,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Neubau is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Neubau District, Vienna",
+    "website": "https://www.example.com/vienna/56",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Neubau+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1056,
+    "name": "Leopoldstadt",
+    "lat": 48.1812,
+    "lng": 16.3458,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Leopoldstadt is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Leopoldstadt District, Vienna",
+    "website": "https://www.example.com/vienna/57",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Leopoldstadt+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1057,
+    "name": "Wieden",
+    "lat": 48.1892,
+    "lng": 16.3578,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.3,
+    "description": "Wieden is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Wieden District, Vienna",
+    "website": "https://www.example.com/vienna/58",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Wieden+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1058,
+    "name": "Margareten",
+    "lat": 48.1972,
+    "lng": 16.3698,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.5,
+    "description": "Margareten is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Margareten District, Vienna",
+    "website": "https://www.example.com/vienna/59",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Margareten+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1059,
+    "name": "Josefstadt",
+    "lat": 48.2052,
+    "lng": 16.3818,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.6,
+    "description": "Josefstadt is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Josefstadt District, Vienna",
+    "website": "https://www.example.com/vienna/60",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Josefstadt+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1060,
+    "name": "Innere Stadt",
+    "lat": 48.2132,
+    "lng": 16.3938,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.6,
+    "description": "Innere Stadt is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Innere Stadt District, Vienna",
+    "website": "https://www.example.com/vienna/61",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Innere+Stadt+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1061,
+    "name": "Café Central",
+    "lat": 48.2212,
+    "lng": 16.4058,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.8,
+    "description": "Café Central is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Café Central District, Vienna",
+    "website": "https://www.example.com/vienna/62",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Café+Central+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1062,
+    "name": "Café Landtmann",
+    "lat": 48.2292,
+    "lng": 16.4178,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.9,
+    "description": "Café Landtmann is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Café Landtmann District, Vienna",
+    "website": "https://www.example.com/vienna/63",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Café+Landtmann+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1063,
+    "name": "Demel Bakery",
+    "lat": 48.2372,
+    "lng": 16.3468,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.9,
+    "description": "Demel Bakery is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Demel Bakery District, Vienna",
+    "website": "https://www.example.com/vienna/64",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Demel+Bakery+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1064,
+    "name": "Hotel Sacher",
+    "lat": 48.2452,
+    "lng": 16.3588,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.2,
+    "description": "Hotel Sacher is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Hotel Sacher District, Vienna",
+    "website": "https://www.example.com/vienna/65",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hotel+Sacher+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1065,
+    "name": "Café Sperl",
+    "lat": 48.2532,
+    "lng": 16.3708,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.4,
+    "description": "Café Sperl is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Café Sperl District, Vienna",
+    "website": "https://www.example.com/vienna/66",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Café+Sperl+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1066,
+    "name": "Buchinger Bistro",
+    "lat": 48.1742,
+    "lng": 16.3828,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.4,
+    "description": "Buchinger Bistro is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Buchinger Bistro District, Vienna",
+    "website": "https://www.example.com/vienna/67",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Buchinger+Bistro+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1067,
+    "name": "Motel One Rooftop",
+    "lat": 48.1822,
+    "lng": 16.3948,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.5,
+    "description": "Motel One Rooftop is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Motel One Rooftop District, Vienna",
+    "website": "https://www.example.com/vienna/68",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Motel+One+Rooftop+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1068,
+    "name": "The Roof Top",
+    "lat": 48.1902,
+    "lng": 16.4068,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "The Roof Top is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "The Roof Top District, Vienna",
+    "website": "https://www.example.com/vienna/69",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Roof+Top+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1069,
+    "name": "Kameha Grand Bar",
+    "lat": 48.1982,
+    "lng": 16.4188,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.7,
+    "description": "Kameha Grand Bar is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Kameha Grand Bar District, Vienna",
+    "website": "https://www.example.com/vienna/70",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kameha+Grand+Bar+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1070,
+    "name": "Austrian Wine House",
+    "lat": 48.2062,
+    "lng": 16.3478,
+    "categories": [
+      "cocktail-bars",
+      "nightlife"
+    ],
+    "rating": 4.9,
+    "description": "Austrian Wine House is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Austrian Wine House District, Vienna",
+    "website": "https://www.example.com/vienna/71",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Austrian+Wine+House+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1071,
+    "name": "Mayer am Pfarrplatz",
+    "lat": 48.2142,
+    "lng": 16.3598,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Mayer am Pfarrplatz is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Mayer am Pfarrplatz District, Vienna",
+    "website": "https://www.example.com/vienna/72",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mayer+am+Pfarrplatz+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1072,
+    "name": "Glacis Beisl",
+    "lat": 48.2222,
+    "lng": 16.3718,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.2,
+    "description": "Glacis Beisl is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Glacis Beisl District, Vienna",
+    "website": "https://www.example.com/vienna/73",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Glacis+Beisl+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1073,
+    "name": "Restaurant Motto",
+    "lat": 48.2302,
+    "lng": 16.3838,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.3,
+    "description": "Restaurant Motto is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Restaurant Motto District, Vienna",
+    "website": "https://www.example.com/vienna/74",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Restaurant+Motto+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1074,
+    "name": "Riegler Restaurant",
+    "lat": 48.2382,
+    "lng": 16.3958,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.5,
+    "description": "Riegler Restaurant is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1467269204594-9661b134dd2b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Riegler Restaurant District, Vienna",
+    "website": "https://www.example.com/vienna/75",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Riegler+Restaurant+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1075,
+    "name": "Restaurant Steirereck",
+    "lat": 48.2462,
+    "lng": 16.4078,
+    "categories": [
+      "cafes",
+      "local-restaurants"
+    ],
+    "rating": 4.5,
+    "description": "Restaurant Steirereck is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80",
+    "address": "Restaurant Steirereck District, Vienna",
+    "website": "https://www.example.com/vienna/76",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Restaurant+Steirereck+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1076,
+    "name": "Pizzeria",
+    "lat": 48.2542,
+    "lng": 16.4198,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.7,
+    "description": "Pizzeria is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?auto=format&fit=crop&w=1200&q=80",
+    "address": "Pizzeria District, Vienna",
+    "website": "https://www.example.com/vienna/77",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Pizzeria+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$$"
+  },
+  {
+    "id": 1077,
+    "name": "Neni Wien",
+    "lat": 48.1752,
+    "lng": 16.3488,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Neni Wien is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?auto=format&fit=crop&w=1200&q=80",
+    "address": "Neni Wien District, Vienna",
+    "website": "https://www.example.com/vienna/78",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Neni+Wien+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$$"
+  },
+  {
+    "id": 1078,
+    "name": "Loving Hut",
+    "lat": 48.1832,
+    "lng": 16.3608,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 4.8,
+    "description": "Loving Hut is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "address": "Loving Hut District, Vienna",
+    "website": "https://www.example.com/vienna/79",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Loving+Hut+vienna",
+    "openingHours": "Daily 09:00–21:00",
+    "averagePrice": "$"
+  },
+  {
+    "id": 1079,
+    "name": "Tafelspitz",
+    "lat": 48.1912,
+    "lng": 16.3728,
+    "categories": [
+      "attractions",
+      "hidden-gems"
+    ],
+    "rating": 5.0,
+    "description": "Tafelspitz is one of the standout destinations for travelers looking to experience Vienna at its best.",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1200&q=80",
+    "address": "Tafelspitz District, Vienna",
+    "website": "https://www.example.com/vienna/80",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tafelspitz+vienna",
+    "openingHours": "Daily 10:00–22:00",
+    "averagePrice": "$$"
+  }
+]
