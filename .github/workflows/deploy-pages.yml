@@ -29,6 +29,8 @@ jobs:
         run: npm ci
 
       - name: Build app
+        env:
+          BASE_PATH: /ultimate-central-europe-guide/
         run: npm run build
 
       - name: Add .nojekyll
